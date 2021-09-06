@@ -81,8 +81,7 @@ DATABASES = {
     #    'NAME': BASE_DIR / 'db.sqlite3',
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'dbsensor',
-        'USER': 'roberval',
-        'PASSWORD': 'Teclado7704*',
+
         'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     }
